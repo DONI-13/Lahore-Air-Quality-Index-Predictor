@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+
+# Environment files
+.venv/
+env/
+venv/
+*.env
+
+# Other
+*.pkl
+.DS_Store
